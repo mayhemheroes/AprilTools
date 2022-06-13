@@ -1,0 +1,7 @@
+project: apriltools
+target: apriltools
+testsuite:
+  - file://e1.png
+cmds:
+  - cmd: /repo/build/apriltools --path /test --focal-length-pixels 2
+    filepath: /test/test1.png
