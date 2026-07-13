@@ -1,0 +1,1 @@
+vendored from apriltag submodule commit 43ca2c4db31e685dcecb928d5f5ae7659677e98b (https://github.com/AprilRobotics/apriltag)
